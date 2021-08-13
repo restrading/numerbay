@@ -1,5 +1,9 @@
 # NumerBay
 
+
+This repo is now maintained at: https://github.com/councilofelders/numerbay
+
+
 ![](https://github.com/restrading/numerbay/workflows/Run%20tests/badge.svg)
 ![](https://github.com/restrading/numerbay/workflows/Deploy%20Production/badge.svg)
 
